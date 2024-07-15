@@ -5,4 +5,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-Currently at: Chapter 1, Getting Started, Running the development server
+Currently at: Chapter 3, Why optimize fonts?
